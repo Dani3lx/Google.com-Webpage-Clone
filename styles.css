@@ -50,6 +50,7 @@ body {
     border-radius: 24px;
     margin: 26px auto 18px auto;
     width: 584px;
+    max-width: 90%;
     font-size: 16px;
     font-family: arial,sans-serif;
     color: #e8eaed;
@@ -57,11 +58,17 @@ body {
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 }
 
-#text_field:hover {
+#text_field:hover{
     background: #303134;
-    border-color: transparent;
-    transition: all 0.1s;
+    border: none;
 }
+
+#text_field:focus{
+    background: #303134;
+    border: none;
+    outline: none;
+}
+
 
 .search_btn {
     background-color: #303134;
