@@ -11,3 +11,5 @@ Image search contains:
   - A text field that takes in a text input and redirects the user to the google image search result of the query when the user types enter
 
 Both pages are created using html, as well as css to imitate the original Google search page.
+
+https://dani3lx.github.io/Google.com-Webpage-Clone/
