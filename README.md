@@ -1,4 +1,4 @@
-# Google.com-Webpage-Clone
+# [Google.com-Webpage-Clone](https://dani3lx.github.io/Google.com-Webpage-Clone/)
 
 This is a simple imitation of the google.com search page as well as the google image search page. 
 Main search page contains:
@@ -12,4 +12,4 @@ Image search contains:
 
 Both pages are created using html, as well as css to imitate the original Google search page.
 
-https://dani3lx.github.io/Google.com-Webpage-Clone/
+
